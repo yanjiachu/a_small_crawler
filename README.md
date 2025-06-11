@@ -5,4 +5,4 @@
 
 “宪法”目前有7条，“法律”目前有694条。
 
-国家法律法规数据库：[国家法律法规数据库](https://flk.npc.gov.cn/)
+国家法律法规数据库：[https://flk.npc.gov.cn/](https://flk.npc.gov.cn/)
